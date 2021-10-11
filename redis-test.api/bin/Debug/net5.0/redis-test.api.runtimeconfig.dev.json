@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ALATAS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ALATAS\\.nuget\\packages"
+    ]
+  }
+}
